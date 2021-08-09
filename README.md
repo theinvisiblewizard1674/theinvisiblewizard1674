@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theinvisiblewizard1674
 - 👀 I'm a learner
 - 🌱 I’m currently trying to get into cybersecurity 
-- 💞️ I'me new to github
+- 💞️ I'm new to github
 - 📫 How to reach me ...
 
 <!---
